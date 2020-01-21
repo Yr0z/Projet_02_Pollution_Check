@@ -64,4 +64,4 @@ typings/
 .interne-only/*
 ConfigKeys.js
 ConfigKeys.jsx
-.package-lock.json
+package-lock.json
